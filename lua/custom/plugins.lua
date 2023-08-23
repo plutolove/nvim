@@ -22,5 +22,5 @@ local plugins = {
       }
     }
   }
-}
+  }
 return plugins
